@@ -9,12 +9,14 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d"],
+    "modules" : ["cocos2d", "external"],
 
     "jsList" : [
         "src/resource.js",
         "src/test1.js",
         "src/test2.js",
+        "src/test3.js",
+        "src/test4.js",
         "src/app.js"
     ]
 }

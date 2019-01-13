@@ -30,6 +30,8 @@ var res = {
     s1_png : "res/s1.png",
     s1_0025_png : "res/s1_0025.png",
     bg_png : "res/bg.jpg",
+    win_wav : "res/win.wav",
+    box : "res/box.png",
 };
 
 var g_resources = [];
